@@ -11,6 +11,10 @@ public class WelcomeController {
 
 
 
+
+
+
+
 	//Auto wiring
 		@Autowired
 		private WelcomeService service;
